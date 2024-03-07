@@ -26,13 +26,13 @@ body {
 
 /* fonts */
 h1 {
-    font-size: 1.4em;
+    font-size: 1.4rem;
 }
 h2 {
-    font-size: 1em;
+    font-size: 1rem;
 }
 p {
-    font-size: 0.8em;
+    font-size: 0.8rem;
 }
 
 /* card */
@@ -100,11 +100,11 @@ p {
     padding-bottom: 8px;
 }
 #oneLine #FPart {
-    font-size: 2em;
+    font-size: 2rem;
     padding-right: 8px;
 }
 #oneLine #SPart {
-    font-size: 1em;
+    font-size: 1rem;
     color: hsla(0, 0%, 100%, 0.607);
 }
 #botRowL p {
@@ -132,7 +132,7 @@ p {
 }
 #botRowR ul li {
     list-style: none;
-    font-size: 0.7em;
+    font-size: 0.7rem;
     padding-bottom: 4px;
 }
 
@@ -157,7 +157,7 @@ p {
         width: 100%;
     }
     #botRowR ul li {
-        font-size: 0.8em;
+        font-size: 0.8rem;
         padding-bottom: 5px;
     }
     #botRowR ul {
