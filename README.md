@@ -7,5 +7,4 @@ https://yoonadimon.github.io/Single-price-grid-component/
 
 Many thanks to Frontend Mentor.
 
-Started on 05-March-2024;
-Last modified on 15-March-2024
+Started on 05-March-2024
